@@ -16,7 +16,8 @@ Latest python version, random lib, PySimpleGUI lib.
 
 ## Documentation
 
-In fact, there is nothing more to write about the program, it is quite simple.
+In fact, there is nothing more to write about the program, it is quite simple. The exe compilation was made in pyisntall.
+
 ## Author
 
 - lielikeAman
